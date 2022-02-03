@@ -13,8 +13,8 @@ Meu nome é Odair, sou <strong>Desenvolvedor Front-End Junior</strong>, formato 
 
 ## Melhores trabalhos
 
-<img alt='My Money' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=my-money&theme=dracula'><img alt='Let Me Ask' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=letmeask-nextlevelweek&theme=dracula'>
-<img alt='Layout Responsivo para E-commerce' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responsive-layout-ecommerce&theme=dracula'>
+<a href='https://github.com/OdairCesar/my-money'><img alt='My Money' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=my-money&theme=dracula'></a><a href='https://github.com/OdairCesar/letmeask-nextlevelweek'><img alt='Let Me Ask' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=letmeask-nextlevelweek&theme=dracula'></a>
+<a href='https://github.com/OdairCesar/responsive-layout-ecommerce'><img alt='Layout Rolex' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responsive-layout-ecommerce&theme=dracula'></a><a href='https://github.com/OdairCesar/responvise-layout-floriculture'><img alt='Layout Plantex' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responvise-layout-floriculture&theme=dracula'></a>
 
 ## Contato
 <a href='https://api.whatsapp.com/send?phone=5514991434273' target='_blank'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
