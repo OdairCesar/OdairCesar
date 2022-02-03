@@ -9,7 +9,10 @@ Meu nome é Odair, sou <strong>Desenvolvedor Front-End Junior</strong>, formato 
 ### Back
 <img src="https://img.shields.io/badge/-Python-141321?logo=python&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-PHP-141321?logo=php&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-MySQL-141321?logo=mysql&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-NodeJS-141321?logo=node.js&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-ExpressJS-141321?logo=express&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/>
 
-<img alt='Card Score' src='https://github-readme-stats.vercel.app/api?username=odaircesar&show_icons=true&theme=radical'><img alt='Card Lings' src='https://github-readme-stats.vercel.app/api/top-langs/?username=odaircesar&layout=compact&theme=radical&langs_count=7'>
+<div align='center'>
+  <img height="190em" alt='Card Score' src='https://github-readme-stats.vercel.app/api?username=odaircesar&show_icons=true&theme=radical'>
+  <img height="190em" alt='Card Lings' src='https://github-readme-stats.vercel.app/api/top-langs/?username=odaircesar&layout=compact&theme=radical&langs_count=7'>
+</div>
 
 ## Melhores trabalhos
 
