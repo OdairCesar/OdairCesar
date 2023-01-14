@@ -1,6 +1,6 @@
 ### Olá Devs
 
-Meu nome é Odair, sou <strong>Desenvolvedor Front-End Junior</strong>, formato em <strong>Analise e Desenvolvimento de Sistemas</strong>(ADS para os íntimos) na Anhanguera, sou bem ativo aqui no GitHub, então!! Sempre fique de olho no que ando fazendo por aqui.
+Meu nome é Odair, sou <strong>Desenvolvedor Junior</strong> trabalho usando HTML, SCSS, CSS, PHP com Zend Framework (Laminas) e JS com Vanilla, jQuery e Angular 14. Fiz <strong>Analise e Desenvolvimento de Sistemas</strong>(ADS para os íntimos) na Anhanguera até o ultimo semestre.
 
 ## Minha stack
 ### Front
