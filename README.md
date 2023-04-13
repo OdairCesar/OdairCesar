@@ -1,6 +1,6 @@
 ### Olá Devs
 
-Meu nome é Odair, sou <strong>Desenvolvedor Junior</strong> trabalho usando HTML, SCSS, CSS, PHP com Zend Framework (Laminas) e JS com Vanilla, jQuery e Angular 14. Fiz <strong>Analise e Desenvolvimento de Sistemas</strong>(ADS para os íntimos) na Anhanguera até o ultimo semestre.
+Meu nome é Odair, sou <strong>Desenvolvedor Front-End Junior</strong>, formato em <strong>Analise e Desenvolvimento de Sistemas</strong>(ADS para os íntimos) na Anhanguera, sou bem ativo aqui no GitHub, então!! Sempre fique de olho no que ando fazendo por aqui.
 
 ## Minha stack
 ### Front
@@ -9,16 +9,12 @@ Meu nome é Odair, sou <strong>Desenvolvedor Junior</strong> trabalho usando HTM
 ### Back
 <img src="https://img.shields.io/badge/-Python-141321?logo=python&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-PHP-141321?logo=php&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-MySQL-141321?logo=mysql&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-NodeJS-141321?logo=node.js&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-ExpressJS-141321?logo=express&logoColor=D93A7C"/> <img src="https://img.shields.io/badge/-MongoDB-141321?logo=mongodb&logoColor=D93A7C"/>
 
-<!--<div>
-  <img height="190em" alt='Card Score' src='https://github-readme-stats.vercel.app/api?username=odaircesar&show_icons=true&theme=radical'>
-  <img height="190em" alt='Card Lings' src='https://github-readme-stats.vercel.app/api/top-langs/?username=odaircesar&layout=compact&theme=radical&langs_count=7'>
-</div>
+<img alt='Card Score' src='https://github-readme-stats.vercel.app/api?username=odaircesar&show_icons=true&theme=radical'><img alt='Card Lings' src='https://github-readme-stats.vercel.app/api/top-langs/?username=odaircesar&layout=compact&theme=radical&langs_count=7'>
 
+## Melhores trabalhos
 
-<!--## Melhores trabalhos
-
-<a href='https://github.com/OdairCesar/my-money'><img alt='My Money' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=my-money&theme=dracula'></a><a href='https://github.com/OdairCesar/letmeask-nextlevelweek'><img alt='Let Me Ask' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=letmeask-nextlevelweek&theme=dracula'></a>
-<a href='https://github.com/OdairCesar/responsive-layout-ecommerce'><img alt='Layout Rolex' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responsive-layout-ecommerce&theme=dracula'></a><a href='https://github.com/OdairCesar/responvise-layout-floriculture'><img alt='Layout Plantex' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responvise-layout-floriculture&theme=dracula'></a>
+<img alt='My Money' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=my-money&theme=dracula'><img alt='Let Me Ask' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=letmeask-nextlevelweek&theme=dracula'>
+<img alt='Layout Responsivo para E-commerce' src='https://github-readme-stats.vercel.app/api/pin/?username=odaircesar&repo=responsive-layout-ecommerce&theme=dracula'>
 
 ## Contato
 <a href='https://api.whatsapp.com/send?phone=5514991434273' target='_blank'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
@@ -28,7 +24,6 @@ Meu nome é Odair, sou <strong>Desenvolvedor Junior</strong> trabalho usando HTM
 <img src='https://img.shields.io/static/v1?&label=&message=Odair%20Dev.%231654&style=for-the-badge&logo=discord&logoColor=white&color=5865F2'>
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
